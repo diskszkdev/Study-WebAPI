@@ -3,3 +3,5 @@
 ################################################################################
 
 /HelloAPI/.vs/HelloAPI
+/HelloAPI/HelloAPI/obj
+/HelloAPI/HelloAPI/bin/Debug/netcoreapp2.1
