@@ -5,8 +5,4 @@
 /HelloAPI/.vs/HelloAPI
 /HelloAPI/HelloAPI/obj
 /HelloAPI/HelloAPI/bin
-/HelloAPI/HelloAPI/Controllers/v2/*
-/HelloAPI/HelloAPI/Controllers/v3/*
-/HelloAPI/HelloAPI/Models/DBContext/*
-/HelloAPI/HelloAPI/Utilities/*
-!.getkeep
+

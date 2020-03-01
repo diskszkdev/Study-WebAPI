@@ -7,7 +7,6 @@
   <ItemGroup>
     <Folder Include="Controllers\v2\" />
     <Folder Include="Controllers\v3\" />
-    <Folder Include="Models\IRepositories\" />
     <Folder Include="Models\DBContext\" />
     <Folder Include="wwwroot\" />
     <Folder Include="Utilities\" />
