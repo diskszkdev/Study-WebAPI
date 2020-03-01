@@ -1,0 +1,12 @@
+[Get]
+curl -D - -X GET "http://localhost:9999/api/v1/employees"
+curl -D - -X GET "http://localhost:9999/api/v1/employees/2"
+
+[POST]
+curl -D - -X POST -H "Content-Type: application/json" -d "{\"EmployeeId\":4, \"EmployeeName\":\"ddddd\", \"Address\":\"DDDD\"}" "http://localhost:9999/api/v1/employees"
+
+[PUT]
+curl -D - -X PUT -H "Content-Type: application/json" -d "{\"EmployeeId\":5, \"EmployeeName\":\"eeee\", \"Address\":\"EEEE\"}" "http://localhost:9999/api/v1/employees/5"
+
+[DELETE]
+curl -D - -X DELETE "http://localhost:9999/api/v1/employees/6"
